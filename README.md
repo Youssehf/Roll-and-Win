@@ -15,7 +15,7 @@ Welcome to the **Roll Game**, a simple two-player game where players take turns 
 - On each turn, the player can roll the dice multiple times to accumulate points.
 - Rolling a 1 causes the player to lose their current round's score, and the turn switches to the next player.
 - A player can choose to "hold" and add their current round's score to their total score, switching the turn to the next player.
-- The first player to reach or exceed 10 points wins the game.
+- The first player to reach or exceed 100 points wins the game.
 
 ## Demo
 You can play the game live [HERE]( https://youssehf.github.io/Roll-and-Win/)
