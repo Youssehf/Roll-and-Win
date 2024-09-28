@@ -1,0 +1,17 @@
+{
+  "name": "roll-and-win",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "build": "tailwindcss -i style.css -o output.css",
+    "watch": "tailwindcss -i ./style.css -o ./output.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "tailwindcss": "^3.4.13"
+  }
+}
+
