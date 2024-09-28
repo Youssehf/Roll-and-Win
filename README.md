@@ -1,6 +1,6 @@
 # Roll Game 🎲
 
-Welcome to the **Roll Game**, a simple two-player game where players take turns rolling a dice. The first player to reach or exceed a score of 10 wins the game. However, if a player rolls a 1, they lose their current score for that round and the turn switches to the other player.
+Welcome to the **Roll Game**, a simple two-player game where players take turns rolling a dice. The first player to reach or exceed a score of 100 wins the game. However, if a player rolls a 1, they lose their current score for that round and the turn switches to the other player.
 
 ## How to Play
 
